@@ -1,8 +1,7 @@
-
 - generug
 ![MyToken](assets/generug.png)
 - image_uri
-![MyToken](assets/image_uri.png)
+- ![MyToken](assets/image_uri.png)
 - MintNft
 ![MyToken](assets/MintNft.png)
 - MyToken
